@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8047"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="SOLDERING_IRON.svg">
+   sodipodi:docname="AWG_30_WRAPPING_CABLE.svg"
+   inkscape:export-filename="E:\user\Google Drive\MADNERD\github\publicDomainSVG\tools\3D_PRINTER.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs8041" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="405.56966"
-     inkscape:cy="978.65382"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="558.02287"
+     inkscape:cy="622.73528"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="756"
-     inkscape:window-height="787"
-     inkscape:window-x="332"
-     inkscape:window-y="98"
+     inkscape:window-width="1137"
+     inkscape:window-height="862"
+     inkscape:window-x="502"
+     inkscape:window-y="101"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata8044">
@@ -53,64 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g8088">
-      <path
-         inkscape:connector-curvature="0"
-         id="path24017"
-         d="m 0.66631386,90.794271 c 0.26469747,-0.40718 3.00213564,-4.16379 6.08306144,-8.34833 l 5.6016897,-7.608242 3.934782,-2.35017 3.934801,-2.350137 1.087275,1.006438 c 1.944242,1.799788 3.611217,3.692611 3.437099,3.902893 -0.292453,0.352575 -24.02290923,16.425588 -24.29870914,16.457438 -0.1437767,0.0161 -0.044551,-0.30303 0.2200816,-0.70966 z"
-         style="display:inline;opacity:1;fill:#aea9a6;fill-opacity:1;stroke:none;stroke-width:0.736184;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path24040"
-         d="M 97.890822,23.570957 C 113.10656,4.191047 125.87219,8.65135 174.21843,13.730504"
-         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:3.70429063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path24011"
-         d="m 21.140056,73.424174 -3.99619,-5.410938 0.842847,-0.601541 C 18.450277,67.081363 34.911721,56.025771 54.567722,42.844585 81.839563,24.556182 91.187107,18.41769 94.025617,16.932825 c 2.045817,-1.070138 3.780773,-1.945757 3.855437,-1.945757 0.07473,0 1.398977,1.540055 2.942926,3.422402 2.76601,3.372241 2.80005,3.429977 2.32214,3.937354 -0.26676,0.28304 -2.37803,2.146754 -4.691748,4.141318 -3.448314,2.972632 -10.407484,8.020452 -38.600521,27.998864 -18.916601,13.40502 -34.466649,24.367095 -34.555698,24.360355 -0.08901,-0.006 -1.960161,-2.447267 -4.158065,-5.423349 z"
-         style="display:inline;opacity:1;fill:#6f8a91;fill-opacity:1;stroke:none;stroke-width:0.47214213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:23.58119583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47382474"
-       x="39.587547"
-       y="92.987427"
-       id="text24056"><tspan
-         sodipodi:role="line"
-         id="tspan24054"
-         x="39.587547"
-         y="92.987427"
-         style="stroke-width:1.47382474">Soldering Iron</tspan></text>
-    <g
-       id="g8093">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2128"
-         d="m 118.74558,31.888312 c -8.65985,0.124435 -11.20604,7.423715 -10.59019,18.434069"
-         style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:0.45954967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90.822839)"
-         rx="0.39909127"
-         y="122.69218"
-         x="-38.706089"
-         height="43.669384"
-         width="9.9263124"
-         id="rect2124"
-         style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.66095853;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90.822839)"
-         rx="0.37495697"
-         y="118.24086"
-         x="-38.714157"
-         height="4.3016362"
-         width="10.158719"
-         id="rect2126"
-         style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.64487332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(2.0612146,-50.728605)"
+       transform="translate(9.8578871,-48.194829)"
        id="g213">
       <g
          transform="matrix(0.22851021,0,0,0.22851021,-59.416539,50.985669)"
@@ -228,6 +174,132 @@
            x="31.727226"
            id="tspan3393"
            sodipodi:role="line">images.madnerd.org</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.0681302,0,0,2.0681302,27.18382,-357.31682)"
+       style="display:inline;opacity:1"
+       id="g8254"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         style="display:inline;opacity:1"
+         id="g8268"
+         transform="matrix(1.0865342,0,0,1.0865342,-72.274944,-26.15003)">
+        <g
+           transform="matrix(0.68131846,0,0,0.83169013,-5.8432369,80.091824)"
+           id="g1110">
+          <rect
+             style="display:inline;opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4"
+             width="43.724915"
+             height="1.8812487"
+             x="-171.87985"
+             y="148.172"
+             rx="0.16799784"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.95935"
+             y="149.86513"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-7"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.87987"
+             y="151.37015"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-3"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.95935"
+             y="153.06323"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-1"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.95935"
+             y="154.75635"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-9"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.95934"
+             y="156.07323"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-0"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.95935"
+             y="157.9545"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-75"
+             width="43.724918"
+             height="1.8812487"
+             x="-172.03886"
+             y="159.64761"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.29250708;stroke-miterlimit:4;stroke-dasharray:0.29250712, 0.29250712;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-4-8-19"
+             width="43.724918"
+             height="1.8812487"
+             x="-171.87985"
+             y="160.96451"
+             rx="0.16799787"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.42699116;stroke-miterlimit:4;stroke-dasharray:0.42699119, 0.42699119;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987-8"
+             width="46.58691"
+             height="3.7624974"
+             x="-173.56128"
+             y="161.9538"
+             rx="0.17899409"
+             transform="rotate(-90.077647)" />
+          <rect
+             style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.42699116;stroke-miterlimit:4;stroke-dasharray:0.42699119, 0.42699119;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect987"
+             width="46.58691"
+             height="3.7624974"
+             x="-173.23135"
+             y="145.13834"
+             rx="0.17899409"
+             transform="rotate(-90.077647)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.00067997px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5000425"
+         x="-10.387289"
+         y="225.59857"
+         id="text24074"><tspan
+           sodipodi:role="line"
+           id="tspan24072"
+           x="-10.387289"
+           y="225.59857"
+           style="stroke-width:0.5000425">AWG 30 Wrapping Cable</tspan></text>
     </g>
   </g>
 </svg>

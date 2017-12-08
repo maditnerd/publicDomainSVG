@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8047"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="SOLDERING_IRON.svg">
+   sodipodi:docname="SPDT_SLIDE_SWITCH.svg"
+   inkscape:export-filename="E:\user\Google Drive\MADNERD\github\publicDomainSVG\tools\GLUE_GUN.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs8041" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="405.56966"
-     inkscape:cy="978.65382"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="849.70365"
+     inkscape:cy="836.97751"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="756"
-     inkscape:window-height="787"
-     inkscape:window-x="332"
-     inkscape:window-y="98"
+     inkscape:window-width="1137"
+     inkscape:window-height="862"
+     inkscape:window-x="643"
+     inkscape:window-y="129"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata8044">
@@ -53,64 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g8088">
-      <path
-         inkscape:connector-curvature="0"
-         id="path24017"
-         d="m 0.66631386,90.794271 c 0.26469747,-0.40718 3.00213564,-4.16379 6.08306144,-8.34833 l 5.6016897,-7.608242 3.934782,-2.35017 3.934801,-2.350137 1.087275,1.006438 c 1.944242,1.799788 3.611217,3.692611 3.437099,3.902893 -0.292453,0.352575 -24.02290923,16.425588 -24.29870914,16.457438 -0.1437767,0.0161 -0.044551,-0.30303 0.2200816,-0.70966 z"
-         style="display:inline;opacity:1;fill:#aea9a6;fill-opacity:1;stroke:none;stroke-width:0.736184;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path24040"
-         d="M 97.890822,23.570957 C 113.10656,4.191047 125.87219,8.65135 174.21843,13.730504"
-         style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:3.70429063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path24011"
-         d="m 21.140056,73.424174 -3.99619,-5.410938 0.842847,-0.601541 C 18.450277,67.081363 34.911721,56.025771 54.567722,42.844585 81.839563,24.556182 91.187107,18.41769 94.025617,16.932825 c 2.045817,-1.070138 3.780773,-1.945757 3.855437,-1.945757 0.07473,0 1.398977,1.540055 2.942926,3.422402 2.76601,3.372241 2.80005,3.429977 2.32214,3.937354 -0.26676,0.28304 -2.37803,2.146754 -4.691748,4.141318 -3.448314,2.972632 -10.407484,8.020452 -38.600521,27.998864 -18.916601,13.40502 -34.466649,24.367095 -34.555698,24.360355 -0.08901,-0.006 -1.960161,-2.447267 -4.158065,-5.423349 z"
-         style="display:inline;opacity:1;fill:#6f8a91;fill-opacity:1;stroke:none;stroke-width:0.47214213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:23.58119583px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.47382474"
-       x="39.587547"
-       y="92.987427"
-       id="text24056"><tspan
-         sodipodi:role="line"
-         id="tspan24054"
-         x="39.587547"
-         y="92.987427"
-         style="stroke-width:1.47382474">Soldering Iron</tspan></text>
-    <g
-       id="g8093">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2128"
-         d="m 118.74558,31.888312 c -8.65985,0.124435 -11.20604,7.423715 -10.59019,18.434069"
-         style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:0.45954967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90.822839)"
-         rx="0.39909127"
-         y="122.69218"
-         x="-38.706089"
-         height="43.669384"
-         width="9.9263124"
-         id="rect2124"
-         style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.66095853;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90.822839)"
-         rx="0.37495697"
-         y="118.24086"
-         x="-38.714157"
-         height="4.3016362"
-         width="10.158719"
-         id="rect2126"
-         style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.64487332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(2.0612146,-50.728605)"
+       transform="translate(5.8409765,0.67615667)"
        id="g213">
       <g
          transform="matrix(0.22851021,0,0,0.22851021,-59.416539,50.985669)"
@@ -229,5 +175,100 @@
            id="tspan3393"
            sodipodi:role="line">images.madnerd.org</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.94272006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect36715-2"
+       width="11.34424"
+       height="59.806324"
+       x="74.778625"
+       y="68.309067"
+       rx="1.4767438" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1.94272006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect36715"
+       width="11.34424"
+       height="59.806324"
+       x="98.347519"
+       y="68.117126"
+       rx="1.4767438" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:2.10546875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36717"
+       width="13.125371"
+       height="61.731369"
+       x="119.50632"
+       y="67.148651"
+       rx="1.6697721" />
+    <rect
+       style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:#000000;stroke-width:1.36063683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36124"
+       width="3.6028657"
+       height="43.190231"
+       x="54.458557"
+       y="31.63442" />
+    <rect
+       style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.23174572;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect36124-4"
+       width="2.7900233"
+       height="45.707081"
+       x="148.77884"
+       y="29.942965" />
+    <rect
+       style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:#000000;stroke-width:1.70118463;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36124-0"
+       width="90.619339"
+       height="37.94516"
+       x="57.814526"
+       y="30.934771" />
+    <rect
+       style="opacity:1;fill:#61331a;fill-opacity:1;stroke:#000000;stroke-width:1.97285271;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36699"
+       width="13.210807"
+       height="9.8474731"
+       x="58.279854"
+       y="58.881008" />
+    <rect
+       style="opacity:1;fill:#61331a;fill-opacity:1;stroke:#000000;stroke-width:1.83571601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36701"
+       width="52.794895"
+       height="10.138264"
+       x="77.059601"
+       y="58.740475" />
+    <rect
+       style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:#000000;stroke-width:1.71101654;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36709"
+       width="97.746223"
+       height="8.0125008"
+       x="54.460918"
+       y="27.000322"
+       ry="2.5347517"
+       rx="1.0649842" />
+    <rect
+       style="opacity:1;fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:2.02260518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36711"
+       width="16.425295"
+       height="24.708317"
+       x="106.92438"
+       y="2.3647926"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#61331a;fill-opacity:1;stroke:#000000;stroke-width:1.91035199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect36699-3"
+       width="12.466105"
+       height="9.7850008"
+       x="135.77121"
+       y="58.87524" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5696373px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35265058"
+       x="3.4082296"
+       y="156.12299"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="3.4082296"
+         y="156.12299"
+         style="font-size:22.5696373px;stroke-width:0.35265058">SPDT Slide Switch</tspan></text>
   </g>
 </svg>
