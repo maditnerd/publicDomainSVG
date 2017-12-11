@@ -10,6 +10,5 @@ Keep in mind, all your contributions will be placed as public domain so you can'
 * [Tools](https://github.com/maditnerd/publicDomainSVG/tree/master/tools)
 
 
-![pdes](publicDomainSVG_en.png)
+![pdes](publicDomainSVG.jpg)
 
-![pdes](contributing_en.png)
