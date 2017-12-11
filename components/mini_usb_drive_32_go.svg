@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1373"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="mini_usb_drive_32_go.svg">
+  <defs
+     id="defs1367" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="761.04053"
+     inkscape:cy="550.06716"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1987" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1370">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ccbfaf;fill-opacity:1;stroke:#ccbfaf;stroke-width:1.02665353;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1929"
+       width="59.59671"
+       height="54.102028"
+       x="-114.36652"
+       y="18.899511"
+       transform="matrix(0.00810073,-0.99996719,0.99998773,0.0049544,0,0)" />
+    <rect
+       style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.04842544;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1929-4"
+       width="49.270164"
+       height="68.246307"
+       x="-54.713432"
+       y="10.527989"
+       ry="10.423512"
+       transform="rotate(-89.637019)" />
+    <rect
+       style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.14100003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1946-8"
+       width="37.417732"
+       height="9.8889723"
+       x="-81.794998"
+       y="70.270866"
+       ry="0"
+       transform="rotate(-89.637019)" />
+    <rect
+       style="opacity:1;fill:#d0c8bd;fill-opacity:1;stroke:#d3cbc0;stroke-width:1.14099991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1963"
+       width="21.922617"
+       height="43.845234"
+       x="-79.958038"
+       y="21.74419"
+       ry="7.0233498"
+       transform="rotate(-89.637019)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.50371742px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.59398234;stroke-opacity:1"
+       x="30.156145"
+       y="72.806259"
+       id="text1967"
+       transform="rotate(0.60675618)"><tspan
+         sodipodi:role="line"
+         id="tspan1965"
+         x="30.156145"
+         y="72.806259"
+         style="fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.59398234;stroke-opacity:1">32GB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.30822611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.45676413;stroke-opacity:1"
+       x="22.387766"
+       y="89.418533"
+       id="text1967-0"
+       transform="rotate(0.60675618)"><tspan
+         sodipodi:role="line"
+         id="tspan1965-6"
+         x="22.387766"
+         y="89.418533"
+         style="fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.45676413;stroke-opacity:1">DTmicroDuo</tspan></text>
+    <rect
+       style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.14100015;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1946-8-4"
+       width="37.417732"
+       height="9.8889723"
+       x="-82.091278"
+       y="8.9270601"
+       ry="0"
+       transform="rotate(-89.637019)" />
+  </g>
+</svg>

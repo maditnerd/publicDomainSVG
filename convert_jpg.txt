@@ -1,0 +1,4 @@
+
+FOR /R %a IN (*.svg) DO "c:\Program Files\Inkscape\inkscape.exe" "%~a" --export-area-drawing --export-png="%~dpna.png"
+FOR /R %a IN (*.png) DO magick "%~a" -alpha background "%~dpna.jpg"
+FOR /R %a IN (*.png) DO del "%~a"
