@@ -6,6 +6,7 @@ Follow me on twitter at [@m4dnerd](https://twitter.com/m4dnerd) for examples on 
 
 Keep in mind, all your contributions will be placed as public domain so you can't use copyrighted materials.
 
+* [Download](https://github.com/maditnerd/publicDomainSVG/archive/master.zip)
 * [Components](https://github.com/maditnerd/publicDomainSVG/tree/master/components)
 * [Tools](https://github.com/maditnerd/publicDomainSVG/tree/master/tools)
 
