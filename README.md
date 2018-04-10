@@ -27,8 +27,8 @@ Keep in mind your images will be published as [CC-0 Public Domain](https://creat
 openclipart.org
 
 ## Examples
-* http://console.madnerd.org/
-* https://github.com/maditnerd/tinypi-guide
+* [http://console.madnerd.org/](http://console.madnerd.org/)
+* [https://github.com/maditnerd/tinypi-guide](https://github.com/maditnerd/tinypi-guide)
 
 ## Author
 * Rémi Sarrailh [@m4dnerd](https://twitter.com/m4dnerd)
