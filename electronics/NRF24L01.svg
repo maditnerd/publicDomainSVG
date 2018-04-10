@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="138.91222mm"
+   height="111.67959mm"
+   viewBox="0 0 492.20864 395.71508"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -28,17 +28,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="178.91248"
-     inkscape:cy="523.83179"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="116.2045"
+     inkscape:cy="-82.984251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -47,14 +51,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-121.75889,-20.811382)">
     <path
        style="fill:#161617;fill-opacity:1;stroke-width:3.37803292"
        inkscape:connector-curvature="0"
@@ -125,7 +130,7 @@
        transform="matrix(0,-4.2225367,4.2225367,0,197.67752,416.52645)">
       <polygon
          style="fill:#d6c45b"
-         points="29.292,10.958 27.75,10.958 27.75,0.542 22.958,0.542 22.958,10.958 21.5,10.958 21.5,0.542 16.625,0.542 16.625,10.958 15.042,10.958 15.042,0.542 10.417,0.542 10.417,23.292 11.958,23.292 12.125,23.292 12.125,18.625 30.792,18.625 30.792,16.542 12.125,16.542 12.125,2.042 13.417,2.042 13.406,12.375 18.344,12.375 18.344,2.125 19.656,2.125 19.656,12.375 24.563,12.375 24.563,2.125 26.094,2.125 26.094,12.375 30.969,12.375 30.969,2.125 41.25,2.125 41.25,0.542 29.292,0.542 "
+         points="22.958,0.542 22.958,10.958 21.5,10.958 21.5,0.542 16.625,0.542 16.625,10.958 15.042,10.958 15.042,0.542 10.417,0.542 10.417,23.292 11.958,23.292 12.125,23.292 12.125,18.625 30.792,18.625 30.792,16.542 12.125,16.542 12.125,2.042 13.417,2.042 13.406,12.375 18.344,12.375 18.344,2.125 19.656,2.125 19.656,12.375 24.563,12.375 24.563,2.125 26.094,2.125 26.094,12.375 30.969,12.375 30.969,2.125 41.25,2.125 41.25,0.542 29.292,0.542 29.292,10.958 27.75,10.958 27.75,0.542 "
          id="polygon4193-9" />
       <circle
          style="fill:#d6c45b"
@@ -262,7 +267,7 @@
          style="font-size:19.47765923px;line-height:1.25;stroke-width:3.37803292px">NRF24L01+</tspan><tspan
          sodipodi:role="line"
          x="49.185974"
-         y="-429.07773"
+         y="-429.0777"
          id="tspan4788"
          style="font-size:19.47765923px;line-height:1.25;stroke-width:3.37803292px">VER:A0</tspan></text>
     <rect

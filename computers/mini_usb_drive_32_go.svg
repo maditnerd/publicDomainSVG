@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="761.04053"
-     inkscape:cy="550.06716"
+     inkscape:cx="136.75482"
+     inkscape:cy="738.63859"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1062"
+     inkscape:window-height="770"
+     inkscape:window-x="213"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid1987" />
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,18 +104,6 @@
          x="30.156145"
          y="72.806259"
          style="fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.59398234;stroke-opacity:1">32GB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.30822611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.45676413;stroke-opacity:1"
-       x="22.387766"
-       y="89.418533"
-       id="text1967-0"
-       transform="rotate(0.60675618)"><tspan
-         sodipodi:role="line"
-         id="tspan1965-6"
-         x="22.387766"
-         y="89.418533"
-         style="fill:#928575;fill-opacity:1;stroke:#938676;stroke-width:0.45676413;stroke-opacity:1">DTmicroDuo</tspan></text>
     <rect
        style="opacity:1;fill:#4b3a33;fill-opacity:1;stroke:#4b3a33;stroke-width:1.14100015;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1946-8-4"
