@@ -32,3 +32,5 @@ openclipart.org
 
 ## Author
 * Rémi Sarrailh [@m4dnerd](https://twitter.com/m4dnerd)
+
+![HowTo](publicDomainSVG.jpg)
